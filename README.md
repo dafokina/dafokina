@@ -119,12 +119,13 @@ ___
 ### Сертификаты
 
 Нетология, 2022-2023 год
-* [Git — система контроля версий](pdf/certificateGit.pdf)
-* [Ручное тестирование веб-приложений](pdf/certificateManualtect.pdf)
-* [Java для тестировщиков](pdf/certificateJava.pdf)
-* [Автоматизированное тестирование веб-приложений на Java](pdf/certificateAutojava.pdf)
-* [JavaScript для тестировщиков](pdf/certificateJavaScript.pdf)
-* [Автоматизированное тестирование интерфейсов на JavaScript](pdf/certificateAutoJavaScript.pdf)
-* [Тестирование мобильных приложений](pdf/certificateMobileApplications.pdf)
-* [Тестирование производительности](pdf/certigicatePerformanceTesting.pdf)
-* [Тестирование безопасности](pdf/certigicateSecurityTesting.pdf)
+* [Git — система контроля версий](https://github.com/dafokina/dafokina/blob/master/pdf/gitCertificate.pdf)
+* [Ручное тестирование веб-приложений](https://github.com/dafokina/dafokina/blob/master/pdf/manualTestingCertificate.pdf)
+* [Java для тестировщиков](https://github.com/dafokina/dafokina/blob/master/pdf/javaCertificate.pdf)
+* [Автоматизированное тестирование веб-приложений на Java](https://github.com/dafokina/dafokina/blob/master/pdf/autoTestingCertificate.pdf)
+* [JavaScript для тестировщиков](https://github.com/dafokina/dafokina/blob/master/pdf/javaScriptCertificate.pdf)
+* [Автоматизированное тестирование интерфейсов на JavaScript](https://github.com/dafokina/dafokina/blob/master/pdf/autoWebTestingCertificate.pdf)
+* [Тестирование мобильных приложений](https://github.com/dafokina/dafokina/blob/master/pdf/mobileTestingcCertificate.pdf)
+* [Тестирование производительности](https://github.com/dafokina/dafokina/blob/master/pdf/perfomanceTestingCertificate.pdf)
+* [Тестирование безопасности](https://github.com/dafokina/dafokina/blob/master/pdf/securityTestingCertificate.pdf)
+* [Сертификат о прохождении обучения](https://github.com/dafokina/dafokina/blob/master/pdf/gradutedCertificate.pdf)
