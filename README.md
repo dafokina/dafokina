@@ -45,7 +45,7 @@ ___
 ___
 ### Портфолио
 **1. Нетология: Дипломная работа профессии Инженер по тестированию: с нуля до middle"** <br>
-[Ссылка на задание]([https://github.com/netology-code/qamid-diplom])
+[Ссылка на задание](https://github.com/netology-code/qamid-diplom)
 
 <details>
   <summary>Что было сделано в рамках проекта:</summary>
